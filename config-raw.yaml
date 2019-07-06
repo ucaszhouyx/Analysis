@@ -1,0 +1,10 @@
+signal_channels:
+  - Lb2PKmm
+  - Lb2PKJpsimm
+  - Lb2PKee
+  - Lb2PKJpsiee
+background_channels:
+  - Lb2PKmm
+  - Lb2PKJpsimm
+  - Lb2PKee
+  - Lb2PKJpsiee
